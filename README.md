@@ -50,10 +50,10 @@ BlueStock_Project/
 
 ## ⚙️ Tech Stack
 Python: pandas, numpy, matplotlib, seaborn, plotly
-SQL: SQLite
+SQL: PostgreSQL
 Visualization: Power BI
 Analytics: Financial modeling, risk metrics
-Tools: Jupyter Notebook, VS Code
+Tools: Jupyter Notebook, VS Code, Google Colab
 
 ## 🔄 ETL Pipeline
 Extracted 10 raw datasets
@@ -152,7 +152,7 @@ Final Report	✅ Completed
 
 ## 👤 Author
 Nehasree Uma Tadikonda
-BSc (Hons) – IIT Guwahati
+BSc.(Hons). – IIT Guwahati
 
 ## ⭐ Notes
 This is a capstone-level project demonstrating:
