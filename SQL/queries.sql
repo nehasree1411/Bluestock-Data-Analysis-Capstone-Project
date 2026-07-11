@@ -7,7 +7,7 @@ SELECT
     d.date
 FROM fact_aum a
 JOIN dim_date d ON d.date_id = a.date_id
-ORDER BY d.date DESC, a.aum_crore DESC
+ORDER BY d.date DESC, a.aum_crore DES
 LIMIT 5;
 
 --Top 5 performing funds by 3yr return
